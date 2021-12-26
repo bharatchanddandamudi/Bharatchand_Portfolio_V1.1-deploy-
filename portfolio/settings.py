@@ -83,7 +83,7 @@ DATABASES = {
         'NAME': 'portfoliodb',
         'USER':'bbc',
         'PASSWORD':'bbc1',
-        'HOST': 'localhost',
+        'HOST': 'django-psql-persistent-bharatchand01-stage.apps.sandbox-m2.ll9k.p1.openshiftapps.com/',
         'PORT':'5432',
     }	
 }
