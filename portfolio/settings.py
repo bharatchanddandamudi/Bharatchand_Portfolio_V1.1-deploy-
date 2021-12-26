@@ -27,7 +27,7 @@ SECRET_KEY = 'z6+xb+i07xlnu$&ik9rs)e%q*gdkf2voyr(-_y=l(k%z-0fd0^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True  
 
-ALLOWED_HOSTS = ['127.0.0.1','bharatchand-2-bharatchand01-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'bharatchand-2-bharatchand01-dev.apps.sandbox-m2.ll9k.p1.openshiftapps.com']
 
 
 # Application definition
